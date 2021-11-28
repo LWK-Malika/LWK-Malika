@@ -1,4 +1,4 @@
-👋 Hi, I’m Malika
+👋 Hi, I’m Malika.
 💞️ I’m interested in Computer Science, drawing and games
 🌱 I’m currently in a 2nd year of Master IMAGINA (imgages and video games) at Montpellier University, France
 👀 I’m looking to work in video game programming 
